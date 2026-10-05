@@ -1,4 +1,10 @@
 /*
+Fontes
+*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+/*
 Reset CSS
 */
 
@@ -18,5 +24,11 @@ Reset CSS
 
     --text-primary-color: #222222;
     --text-secondary-color: #FFFFFF;
+
+    --titles-weights: 700;
+    --text-weights: 400;
+    --menu-text-weights: 500;
 }
+
+
 
